@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Muhammad Sarim
 
-Welcome to my space on GitHub! I'm a **full stack developer** from Pakistan who’s obsessed with building powerful, real-world applications.
+Welcome to my space on GitHub! I'm a **full stack developer** from Pakistan who’s obsessed with building powerful, real-world web applications.
 
 ---
 
